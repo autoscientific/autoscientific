@@ -10,8 +10,6 @@ At autoscientific, we stand out from the crowd by offering unparalleled automati
 
 We provide a wide range of products and solutions designed to streamline preclinical behavioral assays. Our flagship product, the "ReachingBot," is a state-of-the-art device that automates the single-pellet-reaching-task with precision and efficiency. With our growing catalogue of devices, we are transforming the way researchers conduct experiments in top 10 universities worldwide.
 
-![Uploading ReachingBot_Render_larger_2023 (1).jpeg…]()
-
 ## Join our Community
 
 🤝 We believe in the power of collaboration and welcome contributions from developers and the community. Whether you have ideas for new features, bug fixes, or want to improve our existing projects, we invite you to get in touch. Together, we can drive innovation in preclinical science and make a lasting impact.
